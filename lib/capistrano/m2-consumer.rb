@@ -1,0 +1,1 @@
+load File.expand_path('../tasks/m2-consumer.rake', __FILE__)
