@@ -22,3 +22,5 @@ Add the following to your project Capfile
 ~~~
 require "capistrano/m2-consumer"
 ~~~
+
+ git commit -a -m "Correctly added gem to cap"
